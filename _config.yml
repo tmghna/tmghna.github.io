@@ -28,8 +28,11 @@ url: "https://tmghna.github.io"
 github:
   username: tmghna # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+linkedin:
+  username: in/tamaghna-dey-720319325 # change to your Twitter username
+
+instagram:
+  username: tdey_ig
 
 social:
   # Change to your full name.
@@ -38,11 +41,10 @@ social:
   email: ms24205@iisermohali.ac.in # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/unkown # change to your Twitter homepage
+    - https://www.linkedin.com/in/tamaghna-dey-720319325
     - https://github.com/tmghna # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,8 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://media.licdn.com/dms/image/v2/D4D03AQFi-hGPY7isUg/profile-displayphoto-scale_400_400/B4DZgE1jtkHMAk-/0/1752427806531?e=1770854400&v=beta&t=2u92wOqgjlPW5EUtDn_gUu4Sr8BXuCd6ViV7etfKrDE"
-
+avatar: https://instagram.faip2-1.fna.fbcdn.net/v/t51.2885-19/581576268_18084733337071284_944042860803752421_n.jpg
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
