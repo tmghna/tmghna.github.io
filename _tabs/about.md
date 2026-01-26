@@ -34,16 +34,17 @@ Recently, I have become interested in cryptography and computer networks, and th
 > Table Tennis Coordinator at IISER Mohali.\
 > ```October 2025 - Present```
 
-## Ongoing Projects
+## Projects
 - Insight Developement using Expo Dev Client
 - TATTVA26' Website Developement using Astro
+- Analog Image Processing via 4f Correlator System (Supervised by Dr. S Goyal)
 
 ## Skill Matrix
 >
-**Languages**: C, C++, Python, Java, HTML, CSS, JSX, TSX, Arduino, YAML
+**Languages**: C, C++, Python, Java, HTML, CSS, JSX, TSX, Arduino, YAML, SQL, Dart
 >
-**Technical Tools**: Blender, Bambu lab, TinkerCad, Git and Github, React-Native, Expo, Liquid, LaTeX, Typst
+**Technical Tools**: Blender, Bambu lab, TinkerCad, Git and Github, React-Native, Expo, Liquid, LaTeX, Typst, Pytorch
 >
 **Research Tools**:  PyMol, ChemCraft, LAMMPS, GROMACS, AmberTools
 >
-**Domains**: Fourier Optics, UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, Image Processing, App Dev, Web Dev, System Design, IOT
+**Domains**: Fourier Optics, UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, Image Processing (OpenCV), App Dev, Web Dev, System Design, IOT

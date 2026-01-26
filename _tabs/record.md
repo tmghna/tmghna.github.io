@@ -31,7 +31,7 @@ icon: 'fa fa-book'
 | The basis and diversity of life | Dr. R Ramachandran | Macromolecules, Biotic and Abiotic Components |
 | Basic inorganic chemistry | Dr. D Adhikari | MOT, SP-mixing, Overlap integral, JT Distortion |
 | Basic linear algebra | Dr. Varadharaj | Sets, Groups, Fields, Eigenvectors |
-| Mechanics | Dr. Gautam Sheet | Special Theory of Relativity, Tensors, Doppler |
+| Mechanics | Dr. Gautam Sheet | K-Calculus, Tensors, Doppler |
 | Mechanics Lab | Dr. R Kapri | Phyphox, Error Analysis |
 | Inorgannic Chemistry Lab | Prof. M Laskar | Titration, Quantitative Salt-Analysis |
 | Biology lab | Dr. S K Mishra | Microscopy, Biochemical and Physiological Analysis |
@@ -45,7 +45,7 @@ icon: 'fa fa-book'
 | Probability and Statistics | Dr Shane D'Mello | Law of Large Numbers, CLT, MGF |
 | Electromagnetism | Dr. S Biswas | Laplacian, Hall Effect, Maxwell Equations, EMW |
 | Introduction to Environmental Sciences | Dr. Patil, V Sinha | Anthropogeny, Green Revolution, Biogeochemical Cycles |
-| Organic Chemistry Lab | Dr. | TLC, Column Chromatography, FG Detection |
+| Organic Chemistry Lab | Prof. M Laskar | TLC, Column Chromatography, FG Detection |
 | Electromagnetism Lab | Dr. V Bharadwaj | Gaussmeter, Oscilloscope, Random Sampling |
 | Genetics Lab | Dr. N G Prasad | PCR, Cloning, Allele-A1, Phylogeny |
 | Caste, Class and Market | Dr. Rajesh, Debdulal | - |
@@ -61,5 +61,5 @@ icon: 'fa fa-book'
 | Sequence and Series | Dr. C K Balwe | BW Theorem, Cauchy Criterion, Convergence Tests |
 | Spectroscopy Lab | Dr. Sugumar, George | H1NMR, Evanescent Waves, ATR, IR-Raman |
 | Optics Lab | Dr. S Goyal | Fresnel, Fraunhofer, Birefringence, Newton Rings |
-| History of Science | Dr. V Rajesh, T V V | - |
+| History of Science | Dr. V Rajesh, T V V | Work of Aryabhatta, Thomas Kuhn, Needham, Ibn Al-Haytham |
 
