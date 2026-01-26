@@ -4,7 +4,7 @@ title: Unveiling Paradigms with Chaos Game Representation
 description: For the purpose of Meraki 26' (Magazine)
 authors: [Tamaghna, Vedant]
 categories: [General]
-tags: [fractal, chaos game, PCA, CNN, signal processing]
+tags: [fractal, chaos game, k-mer, PCA, clustering, CNN, signal processing]
 ---
 
 ## Introduction

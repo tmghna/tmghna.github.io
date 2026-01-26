@@ -54,7 +54,7 @@ icon: 'fa fa-book'
 
 | Course Name | Instructor | Concept Tags |
 | :--- | :--- | :--- |
-| Introduction to Spectroscopic methods | Dr. S Rakshit | Rovib, Raman, NMR, ESR, Landé g-factor|
+| Introduction to Spectroscopic methods | Dr. S Rakshit | Rovib, Raman, NMR, ESR, Landé g-factor, Zeeman Effect |
 | Chemical Thermodynamics | Dr. S Ghosh | Maxwell's Relations, Chemical Potential |
 | Waves and Optics | Dr. A Chaudhari | Shear Waves, Poynting Theorem, Coherence Theory |
 | Mathematical Methods | Dr. Sanjeev | Complex Analysis, Fourier, ODE, Eigenfunctions |
