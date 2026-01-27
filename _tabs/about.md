@@ -30,7 +30,7 @@ Recently, I have become interested in cryptography and computer networks, and th
 > Convenor of Turing Club, the Computation Club of IISER Mohali.\
 > ```November 2025 - Present```
 
-> iGEM 2026 Team Member. \
+> iGEM 2026 Participant - Team Member @ IISER Mohali. \
 >  ```April 2025 - Present```
 
 > Table Tennis Coordinator at IISER Mohali.\
@@ -41,17 +41,19 @@ Recently, I have become interested in cryptography and computer networks, and th
 - [ ] Insight Developement using Expo Dev Client
 - [ ] TATTVA26' Website Developement using Astro
 - [x] Analog Image Processing via 4f Correlator System (Supervised by Dr. S Goyal)
+- [x] BIO102 Creative Project- Blender Scripting to Render Circular DNA Spline
+- [x] Technical Presentation to Education Minister of Punjab (National Science Day 2025)- Bridging Image Processing to Music Generation
 
 ---
 ## Skill Matrix
 >
-**Languages**: C, C++, Python, Java, HTML, CSS, JSX, TSX, Arduino, YAML, SQL, Dart
+**Computing Languages**: C, C++, Python, Java, HTML, CSS, JSX, TSX, Arduino, YAML, SQL, Dart
 >
-**Technical Tools**: Blender, Bambu lab, TinkerCad, Git and Github, React-Native, Expo, Liquid, LaTeX, Typst, Pytorch
+**Technical Domains**: App Dev, Web Dev, System Design, IOT, Image Processing (OpenCV), Blender, Bambu lab, TinkerCad, Git and Github, React-Native, Expo, Flutter, Liquid, LaTeX, Typst, Pytorch
 >
-**Research Tools**:  PyMol, ChemCraft, LAMMPS, GROMACS, AmberTools
+**Research Domains**:  PyMol, ChemCraft, LAMMPS, GROMACS, AmberTools, Fourier Optics, UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, FFT
 >
-**Domains**: Fourier Optics, UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, Image Processing (OpenCV), App Dev, Web Dev, System Design, IOT
+**Languages**: English, Bengali, Hindi
 
 ---
 **PS**: ```Also check the RECORD page for certifications and courses. Thank you.```
