@@ -63,3 +63,15 @@ icon: 'fa fa-book'
 | Optics Lab | Dr. S Goyal | Fresnel, Fraunhofer, Birefringence, Newton Rings |
 | History of Science | Dr. V Rajesh, T V V | Work of Aryabhatta, Thomas Kuhn, Needham, Ibn Al-Haytham |
 
+**Semester-4**
+
+| Course Name | Instructor | Concept Tags |
+| :--- | :--- | :--- |
+| Chemical Kinetics | Dr. J George | - |
+| Electrochemistry, Colloids and Interfaces | Dr. A K Dey, Angshuman | - |
+| Statistical Thermodynamics | Dr. Gautam Sheet | - |
+| Modern Physics | Dr. A Venkatesan | - |
+| Quantitative Estimates in Soft Matter | Dr. S Rakshit | - |
+| Electrochemistry Lab | Dr. S Ghosh, Gautam | - |
+| Modern Physics Lab | Dr. Kavita, Kapri | - |
+| Ethics in Research | Dr. Shamasundar, Philose | - |
