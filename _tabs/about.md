@@ -38,11 +38,12 @@ Recently, I have become interested in cryptography and computer networks, and th
 
 ---
 ## Projects
-- [ ] Insight Developement using Expo Dev Client
+- [ ] Insight Developement using Expo Dev Client [Github-Insight](https://github.com/IISERM/Insight-expo)
 - [ ] TATTVA26' Website Developement using Astro
 - [x] Analog Image Processing via 4f Correlator System (Supervised by Dr. S Goyal)
-- [x] BIO102 Creative Project- Blender Scripting to Render Circular DNA Spline
-- [x] Technical Presentation to Education Minister of Punjab (National Science Day 2025)- Bridging Image Processing to Music Generation
+- [x] BIO102 Creative Project- Blender Scripting to Render Circular DNA Spline [Github](https://github.com/tmghna/DNA_loop)
+- [x] Technical Presentation to Education Minister of Punjab (National Science Day 2025)- Bridging Image Processing to Music Generation [Github](https://github.com/tmghna/hand2music/tree/main)
+- [x] 2019 (School Exhibition): Self-Driving Obstacle Avoiding Car using Arduino Uno and L293D, Distant CFL Glow via Electrical Resonant Transfromer
 
 ---
 ## Skill Matrix
@@ -51,7 +52,7 @@ Recently, I have become interested in cryptography and computer networks, and th
 >
 **Technical Domains**: App Dev, Web Dev, System Design, IOT, Image Processing (OpenCV), Blender, Bambu lab, TinkerCad, Git and Github, React-Native, Expo, Flutter, Liquid, LaTeX, Typst, Pytorch
 >
-**Research Domains**:  PyMol, ChemCraft, LAMMPS, GROMACS, AmberTools, Fourier Optics, UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, FFT
+**Research Domains**:  Multivariate Calculus, Vector Calculus, Complex Analysis, PyMol, ChemCraft, LAMMPS, GROMACS, AmberTools, Fourier Optics, UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, FFT
 >
 **Languages**: English, Bengali, Hindi
 
