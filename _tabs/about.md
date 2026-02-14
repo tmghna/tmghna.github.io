@@ -39,7 +39,7 @@ Recently, I have become interested in cryptography and computer networks, and th
 ---
 ## Projects
 - [ ] Insight Developement using Expo Dev Client [Github-Insight](https://github.com/IISERM/Insight-expo)
-- [ ] TATTVA26' Website Developement using Astro
+- [ ] TATTVA26' Website Developement using Astro-JS
 - [x] Analog Image Processing via 4f Correlator System (Supervised by Dr. S Goyal)
 - [x] BIO102 Creative Project- Blender Scripting to Render Circular DNA Spline [Github](https://github.com/tmghna/DNA_loop)
 - [x] Technical Presentation to Education Minister of Punjab (National Science Day 2025)- Bridging Image Processing to Music Generation [Github](https://github.com/tmghna/hand2music/tree/main)
@@ -52,9 +52,11 @@ Recently, I have become interested in cryptography and computer networks, and th
 >
 **Technical Domains**: App Dev, Web Dev, System Design, IOT, Image Processing (OpenCV), Blender, Bambu lab, TinkerCad, Git and Github, React-Native, Expo, Flutter, Liquid, LaTeX, Typst, Pytorch
 >
-**Research Domains**:  Multivariate Calculus, Vector Calculus, Complex Analysis, PyMol, ChemCraft, LAMMPS, GROMACS, AmberTools, Fourier Optics, UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, FFT
+**Research Domains**:  UV-VIS, Raman, IR, Flourescence, NMR, and ATR spectroscopy, Chromatography, Multivariate Calculus, Vector Calculus, Complex Analysis, ODE, Fourier Optics, Tensor Physics
+>
+**Research Tools**: PyMol, ChemCraft, LAMMPS, GROMACS, AmberTools
 >
 **Languages**: English, Bengali, Hindi
 
 ---
-**PS**: ```Also check the RECORD page for certifications and courses. Thank you.```
+**PS**: Also check the <a href="/record/"><span>RECORD</span></a> page for certifications and courses. Thank you.
