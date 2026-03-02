@@ -43,7 +43,7 @@ Recently, I have become interested in cryptography and computer networks, and th
 - [x] Analog Image Processing via 4f Correlator System (Supervised by Dr. S Goyal)
 - [x] BIO102 Creative Project- Blender Scripting to Render Circular DNA Spline [Github](https://github.com/tmghna/DNA_loop){:target="_blank"}
 - [x] Technical Presentation to Education Minister of Punjab (National Science Day 2025)- Bridging Image Processing to Music Generation [Github](https://github.com/tmghna/hand2music/tree/main){:target="_blank"}
-- [x] 2019 (School Exhibition): Self-Driving Obstacle Avoiding Car using Arduino Uno and L293D, Distant CFL Glow via Electrical Resonant Transfromer
+- [x] 2019 (School Exhibition): Self-Driving Obstacle Avoiding Car using Arduino Uno and L293D, Distant CFL Glow via Electrical Resonant Transfromer.
 
 ---
 ## Skill Matrix
