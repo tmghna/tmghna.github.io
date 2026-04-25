@@ -5,6 +5,13 @@ icon: fas fa-info-circle
 order: 2
 ---
 
+
+<div class="mb-4">
+  <div class="d-flex flex-wrap gap-2 justify-content-center justify-content-md-start mb-3">
+    <a class="btn btn-primary" href="{{ '/assets/docs/cv.pdf' | relative_url }}" download>Download CV PDF</a>
+  </div>
+</div>
+
 I am Tamaghna Dey, a sophomore undergraduate student at Indian Institute of Science Education and Research, Mohali with a Chemistry and Physics pre-major. \
 My primary interests lie in applied computer science, physical chemistry, statistics, and anything that bridges theory and experimentation. \
 I am interested in working with molecular dynamics simulations, time-resolved spectroscopy, genomics, and related large-scale datasets—applying sophisticated statistical, machine learning, and deep learning methodologies for prediction and modelling. \
