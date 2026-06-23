@@ -7,14 +7,6 @@ categories: [Technical]
 tags: [CachyOS, Linux, Arch, Snapshots, Error -5, ZRAM, swapfile, limine, AMD SME]
 ---
 
-## Contents
-1. [Explaining my motive](#explaining-my-motive)
-2. [Introduction to the setup I worked on](#introduction-to-the-setup-i-worked-on)
-3. [Snapshot trap](#snapshot-trap)
-4. [The multiple fragmentation issue (Error -5)](#the-multiple-fragmentation-issue-error--5)
-5. [Clarifying the CachyOS limine architecture](#clarifying-the-cachyos-limine-architecture)
-6. [The silicon layer problem](#the-silicon-layer-problem)
-7. [Alternative setup protocols](#alternative-setup-protocols) 
 
 ## Explaining my motive
 
