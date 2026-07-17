@@ -5,14 +5,36 @@ icon: fas fa-info-circle
 order: 2
 ---
 
+<style>
+  .btn.cv-download-btn,
+  .btn.cv-download-btn:visited,
+  .btn.cv-download-btn:focus,
+  .btn.cv-download-btn:active,
+  .btn.cv-download-btn:focus-visible {
+    background-color: #8ab4f8 !important;
+    border-color: #8ab4f8 !important;
+    color: #000 !important;
+    -webkit-text-fill-color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  .btn.cv-download-btn:hover {
+    background-color: #7396d1 !important;
+    border-color: #7396d1 !important;
+    color: #000 !important;
+    -webkit-text-fill-color: #000 !important;
+    text-decoration: none !important;
+  }
+</style>
+
 
 <div class="mb-4">
   <div class="d-flex flex-wrap gap-2 justify-content-center justify-content-md-start mb-3">
-    <a class="btn btn-primary" href="{{ '/assets/docs/cv.pdf' | relative_url }}" download>Download CV PDF</a>
+    <a class="btn cv-download-btn" href="{{ '/assets/docs/cv.pdf' | relative_url }}" download>Download CV PDF</a>
   </div>
 </div>
 
-I am Tamaghna Dey, a sophomore undergraduate student at Indian Institute of Science Education and Research, Mohali with a Chemistry and Physics pre-major. \
+I am Tamaghna Dey, an undergraduate student at Indian Institute of Science Education and Research (IISER), Mohali, pursuing a major in Physics. \
 My primary interests lie in applied computer science, physical chemistry, statistics, and anything that bridges theory and experimentation. \
 I am interested in working with molecular dynamics simulations, time-resolved spectroscopy, genomics, and related large-scale datasets—applying sophisticated statistical, machine learning, and deep learning methodologies for prediction and modelling. \
 I am deeply interested in computational logic, namely algorithm formulation, automated workflows, and information and graph theory. \

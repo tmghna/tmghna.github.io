@@ -67,11 +67,11 @@ icon: 'fa fa-book'
 
 | Course Name | Instructor | Concept Tags |
 | :--- | :--- | :--- |
-| Chemical Kinetics | Dr. J George | Maxwell-Boltzmann Distribution |
-| Electrochemistry, Colloids and Interfaces | Dr. A K Dey, Angshuman | Castner-Kellner Process, Titrations, Transport number |
-| Statistical Thermodynamics | Dr. Gautam Sheet | TBA |
-| Modern Physics | Dr. A Venkatesan | TBA |
-| Quantitative Estimates in Soft Matter | Dr. S Rakshit | Einstein Relation, Scallop Theorem, Smoluchowskii Equation |
-| Electrochemistry Lab | Dr. S Ghosh, Gautam | Conductometry, Potentiometry |
-| Modern Physics Lab | Dr. Kavita, Kapri | Frank-Hertz, Planck Constant Measurement |
+| Chemical Kinetics | Dr. J George | PES, Transition State Theory, Stern Volmer |
+| Electrochemistry, Colloids and Interfaces | Dr. A K Dey, Angshuman | Molecular Biomechanics, Marcus theory, Langmuir theory |
+| Statistical Thermodynamics | Dr. Gautam Sheet | Phase Space, Ensembles, Partition function, Maxwell's Demon |
+| Modern Physics | Dr. A Venkatesan | STR, QHO, Tunneling, Lev-Landau, Nuclear physics |
+| Quantitative Estimates in Soft Matter | Dr. S Rakshit | Scallop Theorem, Smoluchowskii Equation, FRET, FRAP, AFM, etc |
+| Electrochemistry Lab | Dr. S Ghosh, Gautam | Conductometry, Potentiometry, Ostwald's viscometer |
+| Modern Physics Lab | Dr. Kavita, Kapri | Frank-Hertz, Planck Constant Measurement, Hall effect |
 | Ethics in Research | Dr. Shamasundar, Philose | TBA |
